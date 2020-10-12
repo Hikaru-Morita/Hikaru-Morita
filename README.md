@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![github stats](https://github-readme-stats.vercel.app/api?username=Hiakru-Morita)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hikaru-Morita&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Hikaru-Morita/Hikaru-Morita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
