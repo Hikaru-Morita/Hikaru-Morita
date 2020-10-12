@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=Hiakru-Morita)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=Hikaru-Morita)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hikaru-Morita&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
